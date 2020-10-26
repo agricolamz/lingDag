@@ -1,0 +1,1 @@
+Source code for a shiny app for drawing maps of East Caucasian languages with lingtypology [Moroz 2017]. Based on the [dataset of East Caucasian languages](https://github.com/sverhees/master_villages): [DOI:10.5281/zenodo.3824151].
